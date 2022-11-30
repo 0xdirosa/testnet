@@ -5,13 +5,17 @@
   </a>
 </p>
 
-[Twitter](https://twitter.com/MantaNetwork)
-[Discord](https://discord.gg/PRDBTChSsF)
-[Telegram Announcements](https://t.me/mantanetwork)
-[Telegram](https://t.me/mantanetworkofficial)
-[Website](https://manta.network/)
-
 The global private blockchain platform is called Manta. From the ground up, we are creating a scalable, modular, and private network. Developers may create interoperable, user-friendly, high-performance, auditable dapps with end-to-end privacy guarantees thanks to Manta's zero-knowledge cryptography. DeFi, NFTs, GameFi, DAOs, and countless more blockchain applications may all benefit from anonymity thanks to Manta.
+
+[Twitter](https://twitter.com/MantaNetwork)
+
+[Discord](https://discord.gg/PRDBTChSsF)
+
+[Telegram Announcements](https://t.me/mantanetwork)
+
+[Telegram](https://t.me/mantanetworkofficial)
+
+[Website](https://manta.network/)
 
 ## What is Trusted Setup?
 
