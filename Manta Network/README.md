@@ -1,4 +1,4 @@
-# Manta Trusted Setup
+<h1 align="center">Manta Trusted Setup</h1>
 
 <p align="center">
   <img width="650" alt="github-banner" src="https://user-images.githubusercontent.com/98164067/154848582-58988e81-6a89-4c5f-bdae-ec83478e245c.png">
