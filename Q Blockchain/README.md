@@ -1,6 +1,6 @@
 <h1 align="center">Q Blockchain Incentivized Testnet</h1>
 
-![images](https://miro.medium.com/max/1100/1*7JV-UT1CDknzvVuHq7ACYw.webp)
+![alt text](https://miro.medium.com/max/1100/1*7JV-UT1CDknzvVuHq7ACYw.webp)
 
 ## What is Project Q?
 
