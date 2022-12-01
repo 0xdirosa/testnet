@@ -1,6 +1,6 @@
 <h1 align="center">5ire Thunder Testnet</h1>
 
-![images](https://miro.medium.com/max/1100/1*UOvm4JDdcUZnk-t-EYCikQ.webp)
+![alt text](https://miro.medium.com/max/1100/1*UOvm4JDdcUZnk-t-EYCikQ.webp)
 
 ## How to participate in the testnet?
 
