@@ -53,7 +53,7 @@ To confirm that the installation worked, enter the command
 manta-trusted-setup register
 ```
 
-![image](https://docs.manta.network/assets/images/ts_guide_register-d42125a1fd2371c7ea6ab14c62636229.png)
+![alt text](https://docs.manta.network/assets/images/ts_guide_register-d42125a1fd2371c7ea6ab14c62636229.png)
 
 An email address and Twitter account are required. You will get output after providing them that resembles this.
 
@@ -69,18 +69,18 @@ manta-trusted-setup contribute
 
 You will be required to input the secret phrase you saved from the registration process (see above) when you enter that command.
 
-![images](https://docs.manta.network/assets/images/ts_guide_secret_prompt-a51b0113ad8b979fb1cf9f23d46cd42e.png)
+![alt text](https://docs.manta.network/assets/images/ts_guide_secret_prompt-a51b0113ad8b979fb1cf9f23d46cd42e.png)
 
 You only need to input your secret; everything else will take care of itself. You will most likely be added to the contribution queue, which will like this.
 
-![images](https://storage.googleapis.com/papyrus_images/c529b1ad7a80fdd41dd05cf44c517d3e.png)
+![alt text](https://storage.googleapis.com/papyrus_images/c529b1ad7a80fdd41dd05cf44c517d3e.png)
 
 You don't need to do anything at this time; simply wait with **CTRL+A+D** pressed in the background, and your contribution will be made when your turn arrives. Keep in mind that you will lose your spot in the queue if you close this assignment. Although you will be sent at the back of the line, you can still repeat the work later to participate.
 
 Your contribution will start right away on the client once you are at the head of the line. The contribution procedure could take a short while. Once more, hold tight and don't do anything at this time. Your completed contribution will be forwarded to our server for validation. You'll observe that.
 
-![images](https://storage.googleapis.com/papyrus_images/e803e0f5142d59e6d0052a3771141e72.png)
+![alt text](https://storage.googleapis.com/papyrus_images/e803e0f5142d59e6d0052a3771141e72.png)
 
 A confirmation message will be sent to you after the server has confirmed your contribution.
 
-![images](https://storage.googleapis.com/papyrus_images/77d8c52a90e90a5a3a2fe9b87959bcb9.png)
+![alt text](https://storage.googleapis.com/papyrus_images/77d8c52a90e90a5a3a2fe9b87959bcb9.png)
