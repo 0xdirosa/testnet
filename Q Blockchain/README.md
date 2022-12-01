@@ -137,5 +137,35 @@ Use the following command to view the real-time logs from our nodes
 docker-compose logs -f --tail "100"
 ```
 
+## Useful Commands
 
+### Find additional peers
 
+If your client cannot connect using the default setup, we advise you to add a flag in the `docker-compose.yaml` file pointing to one of our additional peers (`$BOOTNODE1 ADDR`, `$BOOTNODE2 ADDR`, or `$BOOTNODE3 ADDR`)
+
+```
+testnet-validator-node:
+  image: $QCLIENT_IMAGE
+  entrypoint: ["geth", "--bootnodes=$BOOTNODE1_ADDR,$BOOTNODE2_ADDR,$BOOTNODE3_ADDR", "--datadir=/data", ...]
+```
+### Updating Q-Client & Docker Images
+
+You will need to update the validator files and configurations in the event that the Q-Client undergoes significant revisions. Use the following commands to accomplish this under directory `/testnet-validator` (for validator), `/testnet-rootnode` (for rootnode), or `/testnet-fullnode` (for fullnode)
+
+Stash your changes and pull the latest configs
+
+```
+git stash && git pull
+```
+
+Apply your stashed changes and pull (and overwrite) the latest docker images
+
+```
+git stash apply && docker-compose pull
+```
+
+Restart with new configs & images
+
+```
+docker-compose up -d
+```
