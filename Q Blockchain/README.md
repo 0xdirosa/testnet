@@ -137,6 +137,8 @@ Use the following command to view the real-time logs from our nodes
 docker-compose logs -f --tail "100"
 ```
 
+---
+
 ## Useful Commands
 
 ### Find additional peers
@@ -169,3 +171,5 @@ Restart with new configs & images
 ```
 docker-compose up -d
 ```
+
+---
