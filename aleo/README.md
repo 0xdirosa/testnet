@@ -97,7 +97,7 @@ APrivateKey1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 <img alt="text" src="https://miro.medium.com/max/1100/1*BszP7kxypV9JkRgbn55KnQ.webp"></a>
 
-- There is an official message pinned on Discord
+There is an official message pinned on Discord
 
 <img alt="test" src="https://miro.medium.com/max/1100/1*m4K3unLnjcunp6KTggk6TA.webp"></a>
 
