@@ -16,8 +16,6 @@ An operating system for zero-knowledge applications is called **snarkOS**. The *
 
 [Discord](https://discord.gg/AleoHQ)
 
-[Explorer](https://www.aleo.network/)
-
 ### Hardware requirements
 - **CPU** 16 Cores (32 cores are preferable)
 - **RAM** 16 GB (32 GB are preferable)
@@ -92,6 +90,8 @@ APrivateKey1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ### Check your Node status
 
 - To check your Node status, click [here](https://aleo.network)
+
+<img alt="text" src="https://miro.medium.com/max/1100/1*kF77ntBB5yGH-v345jVkRg.webp"></a>
 
 - And if you experience an error message like this
 
