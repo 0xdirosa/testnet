@@ -89,4 +89,16 @@ Enter the Aleo Prover account private key:
 APrivateKey1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
+### Check your Node status
+
+- To check your Node status, click [here](https://aleo.network)
+
+- And if you experience an error message like this
+
+<img alt="text" src="https://miro.medium.com/max/1100/1*BszP7kxypV9JkRgbn55KnQ.webp"></a>
+
+- There is an official message pinned on Discord
+
+<img alt="test" src="https://miro.medium.com/max/1100/1*m4K3unLnjcunp6KTggk6TA.webp"></a>
+
 ---
