@@ -87,6 +87,8 @@ Enter the Aleo Prover account private key:
 APrivateKey1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
+> Note: You only need to run prover to receive rewards, no need to run client 
+
 ### Check your Node status
 
 - To check your Node status, click [here](https://aleo.network)
